@@ -1,0 +1,15 @@
+#main {
+	width: 1000px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.card {
+	width: 70px;
+	height: 100px;
+	margin: 20px; 
+	float: left;
+	border: solid 1px #232323;
+	border-radius: 5px;
+	float: left;
+}
