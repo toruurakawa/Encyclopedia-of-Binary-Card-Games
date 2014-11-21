@@ -1,11 +1,14 @@
 
 $(document).ready( function () {
+
+
 	$(".card").click(function () {
-		if ($(this).css("background-color") === "rgb(0, 0, 0)") {
-			$(this).css("background-color", "white")
-			console.log("DAFUQ")
+		if ($(this).hasClass("white")) {
+			$(this).removeClass("white");
+			$(this).addClass("black");
 		} else {
-			$(this).css("background-color", "black");
+			$(this).removeClass("black");
+			$(this).addClass("white");
 		}
 		calculate();
 	});
@@ -14,10 +17,12 @@ $(document).ready( function () {
 		var counter = 0;
 		
 		for (var i = 0; i < $(".card").length; i++){
-			if ($($(".card")[i]).css("background-color") === "rgb(0, 0, 0)") counter++;
+			if ($($(".card")[i]).hasClass("black")) {
+				counter += Math.pow(2, $($(".card")[i]).attr("data-slot"));
+			}
 		}
 
-		$("#total").html("Total: " + counter + "(but not really)");
+		$("#total").html(counter);
 	}
 
 });

@@ -1,15 +1,57 @@
 #main {
 	width: 1000px;
 	margin: 0 auto;
+		margin-top: 200px;
+	text-align: center;
+}
+
+h2 {
+	font-family: Helvetica, Arial, Sans-serif;
+	font-size: 178px;
+}
+
+#deck {
+	width: 920px;
+	height: 120px;
+	margin: 0 auto;
+	margin-bottom: 40px;
+	position: relative;
 	text-align: center;
 }
 
 .card {
 	width: 70px;
-	height: 100px;
-	margin: 20px; 
+	height: 60px;
+	margin: 10px; 
 	float: left;
 	border: solid 1px #232323;
 	border-radius: 5px;
 	float: left;
+	font-family: Helvetica, Arial, Sans-serif;
+	font-size: 38px;	
+	font-weight: bold;
+	letter-spacing: -3px;
+	padding-top: 35px;
+}
+
+h2 {
+	margin: 50px 0px;
+	width: 100%;
+}
+
+.card:hover {
+	cursor: pointer;
+	border: solid 3px #e00580;
+	width: 66px;
+	height: 56px;
+}
+
+.card.black {
+	background-color: #232323;
+	color: #fcfcfc;
+}
+
+.card.white {
+	background-color: #fcfcfc;
+	color: #c0c0c0;	
 }
