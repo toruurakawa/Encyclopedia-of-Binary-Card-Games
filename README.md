@@ -4,3 +4,5 @@ Encyclopedia-of-Binary-Card-Games
 * [Test Game](https://github.com/toruurakawa/Encyrlopedia-of-Binary-Card-Games/blob/master/Games/TestGame.md)
 * [Concentration](https://github.com/toruurakawa/Encyclopedia-of-Binary-Card-Games/blob/master/Games/Concentration.md)
 * [Comparing](https://github.com/toruurakawa/Encyclopedia-of-Binary-Card-Games/blob/master/Games/Comparing.md)
+* [War](https://github.com/toruurakawa/Encyclopedia-of-Binary-Card-Games/blob/master/Games/War.md)
+* [Spit](https://github.com/toruurakawa/Encyclopedia-of-Binary-Card-Games/blob/master/Games/Spit.md)
