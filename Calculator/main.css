@@ -1,13 +1,18 @@
 #main {
 	width: 1000px;
 	margin: 0 auto;
-		margin-top: 200px;
+	margin-top: 100px;
 	text-align: center;
 }
 
 h2 {
 	font-family: Helvetica, Arial, Sans-serif;
 	font-size: 478px;
+	color: #232323;
+}
+
+h2#total:hover {
+	cursor: pointer;
 }
 
 #deck {

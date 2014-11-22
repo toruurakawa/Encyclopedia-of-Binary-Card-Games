@@ -25,4 +25,10 @@ $(document).ready( function () {
 		$("#total").html(counter);
 	}
 
+	$("#total").click(function () {
+		$(".card").removeClass("black");
+		$(".card").addClass("white");
+		$("#total").html(0);	
+	});
+
 });
