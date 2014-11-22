@@ -24,6 +24,23 @@ h2#total:hover {
 	text-align: center;
 }
 
+.card_frame {
+	width: 90px;
+	float: left;
+	font-family: Helvetica, Arial, Sans-serif;
+	font-size: 38px;	
+	font-weight: bold;
+	letter-spacing: -3px;	
+}
+
+.card_frame h3 {
+	width: 100%;
+	clear: both;
+	margin: 10px 0px;
+	font-size: 22px;
+	color: #232323;
+}
+
 .card {
 	width: 70px;
 	height: 60px;
@@ -32,10 +49,6 @@ h2#total:hover {
 	border: solid 1px #232323;
 	border-radius: 5px;
 	float: left;
-	font-family: Helvetica, Arial, Sans-serif;
-	font-size: 38px;	
-	font-weight: bold;
-	letter-spacing: -3px;
 	padding-top: 35px;
 }
 

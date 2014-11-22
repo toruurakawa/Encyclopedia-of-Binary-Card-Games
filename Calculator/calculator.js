@@ -19,6 +19,7 @@ $(document).ready( function () {
 		for (var i = 0; i < $(".card").length; i++){
 			if ($($(".card")[i]).hasClass("black")) {
 				counter += Math.pow(2, $($(".card")[i]).attr("data-slot"));
+				$($(".card")[i]).next().html(1)
 			}
 		}
 
@@ -28,7 +29,8 @@ $(document).ready( function () {
 	$("#total").click(function () {
 		$(".card").removeClass("black");
 		$(".card").addClass("white");
-		$("#total").html(0);	
+		$("#total").html(0);
+		$(".card_frame > h3").html("0");
 	});
 
 });
