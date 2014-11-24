@@ -4,3 +4,5 @@ Encyclopedia-of-Binary-Card-Games
 * [Concentration](https://github.com/toruurakawa/Encyclopedia-of-Binary-Card-Games/blob/master/Games/Concentration.md)
 * [War](https://github.com/toruurakawa/Encyclopedia-of-Binary-Card-Games/blob/master/Games/War.md)
 * [Spit](https://github.com/toruurakawa/Encyclopedia-of-Binary-Card-Games/blob/master/Games/Spit.md)
+* Emperor
+  * [browser version](http://qanta.jp/binary/) 
