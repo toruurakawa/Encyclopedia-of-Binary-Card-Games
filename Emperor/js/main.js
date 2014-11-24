@@ -46,8 +46,8 @@ $(function(){
 				
 				$("#opponent").html("");
 				$("#you").html("");
+				setScore();
 			}, 3000);
-			setScore();
 		});
 	}
 	function setScore(){
