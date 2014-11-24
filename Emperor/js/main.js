@@ -41,9 +41,12 @@ $(function(){
 					yScore += 1;
 				}
 			}
-			alert("Opponent : " +oppPoint+"\n"+"You : " +yourPoint+"\n"+txt);
-			$("#opponent").html("");
-			$("#you").html("");
+			setTimeout(function(){
+				alert("Opponent : " +oppPoint+"\n"+"You : " +yourPoint+"\n"+txt);
+				
+				$("#opponent").html("");
+				$("#you").html("");
+			}, 3000);
 			setScore();
 		});
 	}
