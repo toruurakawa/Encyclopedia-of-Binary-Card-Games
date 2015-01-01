@@ -4,7 +4,7 @@ Encyclopedia-of-Binary-Card-Games
 [![ScreenShot](http://i.vimeocdn.com/video/500216336_640.jpg)](http://vimeo.com/114512040)  
   Binary Card Game is the game played with a “binary” deck of cards.  
   The deck contains 54 cards, 27 are “1”s (black) and others are “0”s (white). 
-##### Please follow me on [Twitter](https://twitter.com/BinaryCardGame)!
+##### Please follow [me](https://twitter.com/BinaryCardGame) on Twitter!
 
 #### Tools  
  * [Binary Calculator](http://franc.ly/bica/index.html)
