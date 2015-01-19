@@ -4,7 +4,8 @@ Encyclopedia-of-Binary-Card-Games
 [![ScreenShot](http://i.vimeocdn.com/video/500216336_640.jpg)](http://vimeo.com/114512040)  
   Binary Card Game is the game played with a “binary” deck of cards.  
   The deck contains 54 cards, 27 are “1”s (black) and others are “0”s (white).   
-  Binary Card Gameは、"１"と"０"の２種類のカードからなるカードゲームです。
+    
+  Binary Card Gameは、"１"と"０"の２種類のカードからなるカードゲームです。  
   "１"と"０"がそれぞれ２７枚ずつ、計５４枚のカードで構成されています。
 ##### Please follow [me](https://twitter.com/BinaryCardGame) on Twitter!
 
