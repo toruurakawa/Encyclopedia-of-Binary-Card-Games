@@ -10,11 +10,11 @@ Encyclopedia-of-Binary-Card-Games
 ##### Please follow [me](https://twitter.com/BinaryCardGame) on Twitter!
 ##### You can buy your deck [here](https://binary-card-games.myshopify.com/)!
 #### Tools  
- * [Binary Calculator](http://franc.ly/bica/index.html)
+ * [Binary Calculator (２進数計算機)](http://franc.ly/bica/index.html)
 
 #### Games
- * [Concentration](https://github.com/toruurakawa/Encyclopedia-of-Binary-Card-Games/blob/master/Games/Concentration.md)
- * [War](https://github.com/toruurakawa/Encyclopedia-of-Binary-Card-Games/blob/master/Games/War.md)
+ * [Concentration (神経衰弱)](https://github.com/toruurakawa/Encyclopedia-of-Binary-Card-Games/blob/master/Games/Concentration.md)
+ * [War (２進数計算機)](https://github.com/toruurakawa/Encyclopedia-of-Binary-Card-Games/blob/master/Games/War.md)
  * [Spit](https://github.com/toruurakawa/Encyclopedia-of-Binary-Card-Games/blob/master/Games/Spit.md)
  * Emperor
    * [browser version](http://qanta.jp/binary/) 
