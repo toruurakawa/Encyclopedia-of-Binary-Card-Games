@@ -13,6 +13,7 @@ Encyclopedia-of-Binary-Card-Games
  * [Binary Calculator (２進数計算機)](http://franc.ly/bica/index.html)
 
 #### Games
+ * [Comparing](https://github.com/toruurakawa/Encyclopedia-of-Binary-Card-Games/blob/master/Games/Comparing.md)
  * [Concentration (神経衰弱)](https://github.com/toruurakawa/Encyclopedia-of-Binary-Card-Games/blob/master/Games/Concentration.md)
  * [War (２進数計算機)](https://github.com/toruurakawa/Encyclopedia-of-Binary-Card-Games/blob/master/Games/War.md)
  * [Spit](https://github.com/toruurakawa/Encyclopedia-of-Binary-Card-Games/blob/master/Games/Spit.md)
