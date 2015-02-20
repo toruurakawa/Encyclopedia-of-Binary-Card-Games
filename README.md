@@ -17,5 +17,5 @@ Encyclopedia-of-Binary-Card-Games
  * [Concentration (神経衰弱)](https://github.com/toruurakawa/Encyclopedia-of-Binary-Card-Games/blob/master/Games/Concentration.md)
  * [War (２進数計算機)](https://github.com/toruurakawa/Encyclopedia-of-Binary-Card-Games/blob/master/Games/War.md)
  * [Spit](https://github.com/toruurakawa/Encyclopedia-of-Binary-Card-Games/blob/master/Games/Spit.md)
- * Emperor
+ * [Emperor](https://github.com/toruurakawa/Encyclopedia-of-Binary-Card-Games/blob/master/Games/Emperor.md)
    * [browser version](http://qanta.jp/binary/) 
