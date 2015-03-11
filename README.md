@@ -7,8 +7,7 @@ Encyclopedia-of-Binary-Card-Games
     
   Binary Card Gameは、"１"と"０"の２種類のカードからなるカードゲームです。  
   "１"と"０"がそれぞれ２７枚ずつ、計５４枚のカードで構成されています。
-##### Please follow [me](https://twitter.com/BinaryCardGame) on Twitter!
-##### You can buy your deck [here](https://binary-card-games.myshopify.com/)!
+
 #### Tools  
  * [Binary Calculator (２進数計算機)](http://franc.ly/bica/index.html)
 
@@ -19,3 +18,7 @@ Encyclopedia-of-Binary-Card-Games
  * [Spit](https://github.com/toruurakawa/Encyclopedia-of-Binary-Card-Games/blob/master/Games/Spit.md)
  * [Emperor](https://github.com/toruurakawa/Encyclopedia-of-Binary-Card-Games/blob/master/Games/Emperor.md)
    * [browser version](http://qanta.jp/binary/) 
+
+#### Link
+ * [Binary Card Deck Store](https://binary-card-games.myshopify.com/)
+ * [Twitter](https://twitter.com/BinaryCardGame)
