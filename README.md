@@ -18,8 +18,9 @@ Encyclopedia-of-Binary-Card-Games
  * [Spit](https://github.com/toruurakawa/Encyclopedia-of-Binary-Card-Games/blob/master/Games/Spit.md)
  * [Emperor](https://github.com/toruurakawa/Encyclopedia-of-Binary-Card-Games/blob/master/Games/Emperor.md)
    * [browser version](http://qanta.jp/binary/) 
- * [Box Cookie](https://github.com/toruurakawa/Encyclopedia-of-Binary-Card-Games/blob/master/Games/BoxCookie.md)
+ * [Box Cookie (JP)](https://github.com/toruurakawa/Encyclopedia-of-Binary-Card-Games/blob/master/Games/BoxCookie.md)
  * [Tokyo Monotone Girls Collection (JP)](https://github.com/toruurakawa/Encyclopedia-of-Binary-Card-Games/blob/master/Games/TMC.md)
+ * [Black Jack (JP)](https://github.com/toruurakawa/Encyclopedia-of-Binary-Card-Games/blob/master/Games/BC.md)
 
 #### Link
  * [Binary Card Deck Store](https://binary-card-games.myshopify.com/)
