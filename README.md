@@ -19,6 +19,7 @@ Encyclopedia-of-Binary-Card-Games
  * [Emperor](https://github.com/toruurakawa/Encyclopedia-of-Binary-Card-Games/blob/master/Games/Emperor.md)
    * [browser version](http://qanta.jp/binary/) 
  * [Box Cookie](https://github.com/toruurakawa/Encyclopedia-of-Binary-Card-Games/blob/master/Games/BoxCookie.md)
+ * [Tokyo Monotone Girls Collection (JP)](https://github.com/toruurakawa/Encyclopedia-of-Binary-Card-Games/blob/master/Games/TMC.md)
 
 #### Link
  * [Binary Card Deck Store](https://binary-card-games.myshopify.com/)
