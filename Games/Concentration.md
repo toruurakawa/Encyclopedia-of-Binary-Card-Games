@@ -1,11 +1,15 @@
 # Concentration
+
 ### Players
+
 * Any number
   
 ### Cards
+
 * 1 pack
 
 ### The Deal
+
 * Spread the cardsface down on a table making sure that no two cards overlap.
 
 ### To Win  the Game

@@ -1,15 +1,19 @@
-#War
+# War
 
-##Players
+## Players
+
 2 or more
 
-##Cards
+## Cards
+
 Split deck in half
 
-##To Win
+## To Win
+
 Have all the cards
 
-##Gameplay
+## Gameplay
+
 * Players play the top card from their deck at the same time laying them on the table from right to left
 * if less than 3 players are playing they should lay down five cards to start. If there are 3 or more players you should lay down three cards to start.
 * 1 (black) beats 0 (white); the player who plays the black card takes both

@@ -1,15 +1,19 @@
-#Emperor
+# Emperor
 
-##Players
+## Players
+
 2
 
-##Cards
+## Cards
+
 Each player get 8 white and 7 black first
 
-##To Win
+## To Win
+
 Win 3 sets
 
-##Gameplay
+## Gameplay
+
 * Players pick 3 cards from their cards, they can select any combinations they can make.
 * All cards selected should be placed in the center of table facedown.
 * Take 3 cards of opponent, but the opponent can't flip and confirm the color of the cards.
